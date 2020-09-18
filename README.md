@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am currently a Junior in Hong Kong University of Science and Technology, majoring in Computer Engineering, focusing on software and web development. I am currently working on my skills for the front end, especially on Angular.
+
+I also have an interest in designing video games, and am hoping to release a presentable demo very soon. Stay tuned!
+
+Feel free to connect me on my [LinkedIn](https://www.linkedin.com/in/javierhui "Javier's LinkedIn")!
+
 <!--
 **javier-hui/javier-hui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
