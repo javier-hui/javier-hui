@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a Computer Engineering student studying in Hong Kong University of Science and Technology, focusing on software and web development. I am currently working on my skills for the front end, especially on Angular.
+I am currently a Computer Engineering student, focusing on software and web development. I am currently working on my skills for the front end, especially on Angular.
 
 I also have an interest in designing video games, and am hoping to release a presentable demo very soon. Stay tuned!
 
